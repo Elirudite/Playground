@@ -1,0 +1,3 @@
+$('#myTurntable').turntable(
+	{axis: 'y'}
+	);
